@@ -1,0 +1,11 @@
+---
+title: "Singen Bike Marathon"
+author: "Ralph Rogge (RRO)"
+date: "22 August 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
